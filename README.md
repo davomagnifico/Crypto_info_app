@@ -9,8 +9,8 @@ Crypto coin market reporting app
 5. Run seed `php artisan db:seed --class=CoinSeeder`
 6. Start application: `php artisan serve`
 7. Navigate to folder crypto-app/
-8. Run: 'npm install'
-9. Run: 'npm run dev' at this stage.
+8. Run: `npm install`
+9. Run: `npm run dev` at this stage.
 10. Et voila...
 
 
