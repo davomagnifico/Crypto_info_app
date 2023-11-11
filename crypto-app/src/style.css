@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+    @apply font-roboto;
+}
+
+.tabled-coin th,
+.tabled-coin td {
+    @apply bg-white text-[#4a4a4a] text-sm px-2 overflow-hidden whitespace-nowrap text-left align-middle border-t border-b border-[#e5e7eb]
+}
