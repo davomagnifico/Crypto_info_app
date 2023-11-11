@@ -2,9 +2,15 @@
 Crypto coin market reporting app
 
 ## Setup
-1. Edit .env file: `VITE_API_BASE_URL="http://127.0.0.1:8000/api"` (This the domain of Laravel application)
-2. Install dependencies: `npm install`
-3. Start up application: `npm run dev`
+1. Navigate to folder crypto-api/
+2. Edit .env file: Change the database information
+3. Run: `composer install`
+4. Migrate Database: Run `php artisan migrate`
+5. Run seed `php artisan db:seed --class=CoinSeeder`
+6. Start application: `php artisan serve`
+7. Navigate to folder crypto-app/
+8. Run: 'npm run dev' at this stage.
+9. Et voila...
 
 
 
