@@ -7,7 +7,7 @@ Crypto coin market reporting app
 3. Run: `composer install`
 4. Migrate Database: Run `php artisan migrate`
 5. Run seed `php artisan db:seed --class=CoinSeeder`
-6. Start application: `php artisan serve`
+6. Start application: `php artisan serve --port=8001` // Different environments default to different port numbers so force it to use port 8001
 7. Navigate to folder crypto-app/
 8. Run: `npm install`
 9. Run: `npm run dev` at this stage.
