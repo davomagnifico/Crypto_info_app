@@ -2,7 +2,7 @@
 Crypto coin market reporting app.  Developed as a technical test displaying Vue3 and Laravel API development skills.
 
 The following is the original technical test request.
-Technical Assessment
+#Technical Assessment
 ## Project Description
 You are tasked with creating a web application that displays	information about the latest 
 cryptocurrency prices. You will use a publicly open REST API to fetch the data and display it 
