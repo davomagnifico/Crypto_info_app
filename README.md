@@ -3,7 +3,7 @@ Crypto coin market reporting app.  Developed as a technical test displaying Vue3
 
 The following is the original technical test request.
 
-#Technical Assessment
+##Technical Assessment
 
 ## Project Description
 You are tasked with creating a web application that displays	information about the latest 
@@ -30,7 +30,7 @@ a specific cryptocurrency by name or symbol.
 7. The application should be respon	sive and work on both desktop and mobile devices.
 ## Expectations	:
 1. Your code should be well	- structured, efficie	nt, and readable.
-2. Your frontend design should be responsive, user	- friendly, and visually appealing.
+2. Your frontend design should be responsive, user - friendly, and visually appealing.
 3. Your code should incorporate best practices for security and error handling.
 4. Your REST API integration should be functional and error	- free.
 5. Your code should	be thoroughly commented and documented.​
@@ -41,9 +41,9 @@ You shou ld use the following API endpoints:
 market cap.
 • /coins/{id}	: This endpoint returns detailed information about a specific 
 cryptocurrency.
-You can find more information about these endpoints in the 	CoinGecko API documentation	.
+You can find more information about these endpoints in the CoinGecko API documentation	.
 ## Deliverables	:
-You should submit a GitHub repository containing your code and instructions 	on how to get 
+You should submit a GitHub repository containing your code and instructions on how to get 
 the application up and running. The repository should include:
 1. Backend API code built with Laravel
 2. Frontend code built with Vue JS and Nuxt JS or similar framework
